@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 773623c8e82619740ba5faeb34a8055a
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -8428901827230102103
+    second: SPINNNNN
+  - first:
+      74: 6834247953143606648
+    second: Floating Connector.002|Glowing Blade.002Action
+  - first:
+      74: 7685257667827268478
+    second: Floating Connector.002|Glowing Handle .002Action
+  - first:
+      74: 3593388725724895702
+    second: Floating Connector.002|Handle.002Action
+  - first:
+      74: -6233800739687768092
+    second: Floating Connector.002|Main Blade.002Action
+  - first:
+      74: 2281392053547985458
+    second: Handle.002|Floating Connector.002Action.002
+  - first:
+      74: 5394324959276488830
+    second: Handle.002|Glowing Blade.002Action
+  - first:
+      74: -4903478871705718157
+    second: Handle.002|Glowing Handle .002Action
+  - first:
+      74: 5231585048346486189
+    second: Handle.002|Handle.002Action
+  - first:
+      74: -6270125877287392260
+    second: Handle.002|Main Blade.002Action
+  - first:
+      74: 4464046387823586374
+    second: Main Blade.002|Floating Connector.002Action.002
+  - first:
+      74: 2064424385087685344
+    second: Main Blade.002|Glowing Blade.002Action
+  - first:
+      74: 5936021073727819640
+    second: Main Blade.002|Glowing Handle .002Action
+  - first:
+      74: 6204621822699403447
+    second: Main Blade.002|Handle.002Action
+  - first:
+      74: 8807628408923975150
+    second: Main Blade.002|Main Blade.002Action
+  - first:
+      74: 6258513896678408982
+    second: Glowing Blade.002|Floating Connector.002Action.002
+  - first:
+      74: -5874811301739230072
+    second: Glowing Blade.002|Glowing Blade.002Action
+  - first:
+      74: -1574887812848563047
+    second: Glowing Blade.002|Glowing Handle .002Action
+  - first:
+      74: 4192487580980021247
+    second: Glowing Blade.002|Handle.002Action
+  - first:
+      74: 632782435592252016
+    second: Glowing Blade.002|Main Blade.002Action
+  - first:
+      74: -5432060746084625294
+    second: Glowing Handle .002|Floating Connector.002Action.002
+  - first:
+      74: -6367318362462510771
+    second: Glowing Handle .002|Glowing Blade.002Action
+  - first:
+      74: -1115605193849194771
+    second: Glowing Handle .002|Glowing Handle .002Action
+  - first:
+      74: 7706344847575178875
+    second: Glowing Handle .002|Handle.002Action
+  - first:
+      74: 3041638214156230729
+    second: Spin Animation
+  - first:
+      74: 3041638214156230729
+    second: Glowing Handle .002|Main Blade.002Action
+  - first:
+      74: 3400457849314350819
+    second: Spin Animation
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bmr material
+    second: {fileID: 2100000, guid: 49e10ec2fb4df724ea4732b7968b6ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glowing Connector
+    second: {fileID: 2100000, guid: 3dded9b11abe2464eb1a8155f9216adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glowing bmr
+    second: {fileID: 2100000, guid: 970391d398b41894da47e186b5eec992, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SPINNNNN
+      takeName: Floating Connector.002|Floating Connector.002Action.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.05
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
